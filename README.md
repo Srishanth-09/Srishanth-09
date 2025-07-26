@@ -13,6 +13,22 @@ I am a highly motivated and curious ECE student with a deep passion for the **VL
 I aim to contribute meaningfully to the future of chip and system design by continuously sharpening my technical skills and staying aligned with the evolving VLSI ecosystem.
 
 ---
+<div>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Srishanth-09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="150"
+    alt="stats graph"
+    style="margin-right: 20px;"
+  />
+</div>
+<div>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Srishanth-09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    height="150"
+    alt="languages graph"
+  />
+</div>
+
 
 ## 🧠 Technical Skills
 
